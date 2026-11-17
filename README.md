@@ -1,10 +1,10 @@
 ### Hi, I'm Nirekshan 👋
 
-I write and review **coding tasks that test AI agents**, and I automate operations work in **Python and SQL**.
+I build the coding tasks that frontier AI agents get tested on, and the verifiers that decide whether they actually solved them. Before that I ran operations and automation in e-commerce logistics and energy.
 
-- 🧪 **AI coding evaluation:** 20+ software engineering tasks for AI coding agents at Handshake AI across 11 domains, each with a reference solution and a pytest verifier; 40+ engineering benchmark tasks at Turing in Python, NumPy and Docker.
-- ⚙️ **Automation:** automated a 5,000+ case monthly workflow across Salesforce and AWS with Python and UiPath at Enpal (Germany), removing 300+ manual hours a month.
-- 🚚 **Logistics data:** daily SQL and Excel backlog reporting across four national 3PL partners at Flipkart.
+- 🧪 **AI coding evaluation:** software engineering tasks for AI coding agents at Handshake AI, from debugging and databases to embedded systems and build pipelines. Each one ships with a reference solution and a pytest verifier hardened so a hardcoded or tampered answer can't pass. At Turing I built engineering benchmark tasks in Python, NumPy and Docker that GPT and Claude agents failed while the reference passed.
+- ⚙️ **Automation:** at Enpal (Germany) I automated meter-exchange case handling across Salesforce and AWS with Python and UiPath, removing 300+ manual hours a month.
+- 🚚 **Logistics data:** at Flipkart I built the daily SQL backlog report four national delivery partners were reviewed against.
 
 #### Projects
 
